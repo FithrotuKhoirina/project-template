@@ -1,0 +1,15 @@
+== Architecture
+
+=== Related System
+
+______ terdiri dari beberapa sistem yang saling terintegrasi. Berikut
+daftar sistem yang terhubung dengan __________.
+
+[cols=",,",options="header",]
+|===
+|*No* |*Nama Sistem* |*Deskripsi*
+|===
+
+=== High Level Architecture
+
+Bisa di isi dengan gambar HLA sistem

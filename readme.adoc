@@ -1,0 +1,37 @@
+== Project Title
+
+One Paragraph of project description goes here
+
+== Prerequisites and Installation
+
+What requirements you need to install the system/software and how to
+install them
+
+____
+List of Requirements
+____
+
+You can read more about installation step on Developer Onboarding (link
+to dev onboarding) section on System Documentation
+
+== Documentation
+
+
+|===
+|*Document Title* |*About The Document*
+
+|<<docs/initiative/system-name.adoc#, System Documentation>> |This
+document would help you to understand more about system, including its
+architecture and environment, how to develop the system, how to deploy,
+and more
+
+|<<Documentation/api-documentation/index.adoc#, Api Documentation>> |This technical document contains instructions
+about how to effectively use and integrate with System’s API
+
+|link:[User Guide] |The main purpose of this document is to give
+assistance to end user in using this system
+|===
+
+== Author
+
+The writer of this document
