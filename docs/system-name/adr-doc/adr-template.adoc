@@ -34,9 +34,9 @@ Good or bad implications because the decisions. For example: The system must fol
 
 place a link related to the adr related decesion file
 
-* [ADR-0000 Old Decision](0001-old-decision.md)
-* [ADR-0002 New Decision](0002-new-decision.md)
-* [ADR-0003 Other Decision](0002-other-decision.md)
+// * [ADR-0000 Old Decision](0001-old-decision.md)
+// * [ADR-0002 New Decision](0002-new-decision.md)
+// * [ADR-0003 Other Decision](0002-other-decision.md)
 
 // Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
 

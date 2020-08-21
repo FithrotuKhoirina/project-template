@@ -6,7 +6,7 @@ This document explains all decisions applied in the <Project Name> Development. 
 
 |===
 |*Document Title* |*Remark/Explanation*
-|001-ADR Decision A (link to template)|<<adr-doc/adr-doc.adoc#, Template>>
+|001-ADR Decision A (link to template)|<<adr-doc/adr-template.adoc#, Template>>
 |002-ADR Decision B| 
 
 |===
