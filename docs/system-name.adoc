@@ -35,7 +35,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 
 <<system-name/release-deployment.adoc#, Release and Deployment>>
 
-<<system-name/adr-system-name.adoc#, Document ADR >>
+<<system-name/adr-doc.adoc#, Document ADR >>
 
 
 === Onboarding Information
