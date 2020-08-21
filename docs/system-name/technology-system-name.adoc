@@ -1,4 +1,5 @@
-== Technology
+== Technology (System Name)
+
 |===
 |*Spesification* |*Name*
 |OS |

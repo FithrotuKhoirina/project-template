@@ -1,11 +1,11 @@
-== Architecture
+== Architecture (System Name)
 
 === Related System
 
 ______ terdiri dari beberapa sistem yang saling terintegrasi. Berikut
 daftar sistem yang terhubung dengan __________.
 
-[cols=",,",options="header",]
+
 |===
 |*No* |*Nama Sistem* |*Deskripsi*
 |===

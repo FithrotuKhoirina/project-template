@@ -1,0 +1,13 @@
+= Document ADR (System Name)
+
+ADR Document Sistem A
+
+This document explains all decisions applied in the <Project Name> Development. The documents below is the history of all decisions applied by the development team based on the exploration
+
+
+|===
+|*Document Title* |*Remark/Explanation*
+|001-ADR Decision A (link to template)|<<adr-doc/adr-doc.adoc#, Template>>
+|002-ADR Decision B| 
+
+|===

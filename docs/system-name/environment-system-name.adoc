@@ -1,6 +1,5 @@
-== Environment
+== Environment (System Name)
 
-[cols=",,",options="header",]
 |===
 |*Stage* |*Environment* |*Specs*
 |Development |IP Address |

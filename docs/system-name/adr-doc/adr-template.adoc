@@ -66,7 +66,7 @@ Argument why we choose this options. What kind of big benefit we get for that.
 
 == References, Implementations and Notes
 
-* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records)
+* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records[])
 * [Implementation Reference of ADR](decisions/0000-global-adr.md)
 
 Notes:

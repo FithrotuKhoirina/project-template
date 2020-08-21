@@ -20,7 +20,7 @@ to dev onboarding) section on System Documentation
 |===
 |*Document Title* |*About The Document*
 
-|<<docs/initiative/system-name.adoc#, System Documentation>> |This
+|<<docs/system-name.adoc#, System Documentation>> |This
 document would help you to understand more about system, including its
 architecture and environment, how to develop the system, how to deploy,
 and more
