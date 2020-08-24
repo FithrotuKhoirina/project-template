@@ -1,4 +1,4 @@
-== Project Tittle
+== System Name
 
 === Overview
 
@@ -12,9 +12,9 @@ Berikut adalah nama-nama yang terlibat dalam pengembangan sistem
 ______________. Masing-masing sudah dilengkapi dengan alamat email yang
 bisa dihubungi jika diperlukan.
 
-[cols=",,",options="header",]
+
 |===
-|*Name* |*Role* |*Email*
+| Name | Role | Email 
 | | |
 |===
 
@@ -23,31 +23,39 @@ bisa dihubungi jika diperlukan.
 Berisi informasi teknis tentang sistem, adapun informasi yang
 dicantumkan harus menyesuaikan dengan kebutuhan.
 
-<<system-name/system-url.adoc#, System Url>>
+<<system-name/system-url.adoc#, System Url System Name>>
 
-<<system-name/architecture.adoc#, Architecture>>
+<<system-name/architecture.adoc#, Architecture System Name>>
 
-<<system-name/technology.adoc#, Technology>>
+<<system-name/technology.adoc#, Technology System Name>>
 
-<<system-name/environment.adoc#, Environment>>
+<<system-name/environment.adoc#, Environment System Name>>
 
-<<system-name/database.adoc#, Database>>
+<<system-name/database.adoc#, Database System Name>>
 
-<<system-name/release-deployment.adoc#, Release and Deployment>>
+<<system-name/release-deployment.adoc#, Release and Deployment System Name>>
 
-<<system-name/adr-doc.adoc#, Document ADR >>
+<<system-name/adr-doc.adoc#, Document ADR  System Name>>
 
 
 === Onboarding Information
 
-<<system-name/devonboard.adoc#, Developer Onboarding>>
+<<system-name/devonboard.adoc#, Developer Onboarding Sytem Name>>
 
-<<system-name/development.adoc#, Development>>
+<<system-name/development.adoc#, Development System name>>
 
-<<system-name/convention.adoc#, Naming Convention>>
+<<system-name/convention.adoc#, Naming Convention System Name>>
 
 === Dokumentasi
 
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen
-yang biasa dimasukkan di dalamnya. User Manual Dokumen Integrasi (jika
-ada) Dokumen Maintenance (jika ada) Dokumen API (jika ada)
+yang biasa dimasukkan di dalamnya :
+
+- User Manual Dokumen Integrasi (jika
+ada) 
+- Dokumen Maintenance (jika ada) 
+- Dokumen API (jika ada)
+- Maintenance Document (jika ada)
+- Release Note (jika ada)
+- Flow and Wireframe (jika ada)
+- Functional Specification (jika ada)
