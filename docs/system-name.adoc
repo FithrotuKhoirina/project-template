@@ -23,7 +23,7 @@ bisa dihubungi jika diperlukan.
 Berisi informasi teknis tentang sistem, adapun informasi yang
 dicantumkan harus menyesuaikan dengan kebutuhan.
 
-<<system-name/url-systemname.adoc#, System Url System Name>>
+<<system-name/url-systemname.adoc#, System URL System Name>>
 
 <<system-name/architecture-systemname.adoc#, Architecture System Name>>
 
@@ -49,11 +49,15 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 === Dokumentasi
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
 
-* <<system-name/adr-doc-systemname.adoc#, Document ADR  System Name>>
+User Manual (jika ada, external link)
 
-* <<system-name/release-note-systemname.adoc#, Release Note System Name>>
+Dokumen Integrasi (jika ada, external link)
 
-* User Manual Dokumen Integrasi (jika
-ada) 
-*  Dokumen API (jika ada)
+Dokumen Maintenance (jika ada, external link)
+
+Dokumen API (jika ada, external link)
+
+<<system-name/adr-doc-systemname.adoc#, Document ADR  System Name>>
+
+<<system-name/release-note-systemname.adoc#, Release Note System Name>>
 

@@ -6,7 +6,6 @@ The documents below is the history of all decisions applied by the development t
 
 |===
 |*Document Title* |*Remark/Explanation*
-|0001-ADR Decision A (link to template)|<<adr-doc-systemname/0001-adr-doc-systemname.adoc#, Template>>
-|002-ADR Decision B| 
-
+| <<adr-doc-systemname/0000-adr-doc-old-decision-systemname.adoc#, [ADR-0000] Old Decision  >> |Template ADR
+|<<adr-doc-systemname/0001-adr-doc-simple-healty-check-endpoint.adoc#, [ADR-0001] Simple Health Check Endpoint  >> | Example ADR Doc
 |===
