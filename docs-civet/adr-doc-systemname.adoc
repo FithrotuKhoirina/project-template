@@ -1,4 +1,4 @@
-= ADR Document (System Name)
+= Document ADR (System Name)
 
 
 The documents below is the history of all decisions applied by the development team based on the exploration” diubah jadi “The documents below are the history of all decisions applied by the development team based on the exploration
@@ -6,6 +6,6 @@ The documents below is the history of all decisions applied by the development t
 
 |===
 |*Document Title* |*Remark/Explanation*
-| <<adr-doc-systemname/product-paket-data-systemname.adoc#, Product Paket Data (System Name) >> |Example
-
+| <<adr-doc-systemname/0000-adr-doc-old-decision-systemname.adoc#, [ADR-0000] Old Decision  >> |Template ADR
+|<<adr-doc-systemname/0001-adr-doc-simple-healty-check-endpoint.adoc#, [ADR-0001] Simple Health Check Endpoint  >> | Example ADR Doc
 |===
