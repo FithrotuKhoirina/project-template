@@ -31,7 +31,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 
 <<system-name/environment-systemname.adoc#, Environment System Name>>
 
-<<system-name/database-systemname.adoc#, Database System Name>>
+<<system-name/database-systemname.adoc#, Database Documentation System Name>>
 
 <<system-name/release-deploy-systemname.adoc#, Release and Deployment System Name>>
 
@@ -57,7 +57,7 @@ Dokumen Maintenance (jika ada, external link)
 
 Dokumen API (jika ada, external link)
 
-<<system-name/adr-doc-systemname.adoc#, Document ADR  System Name>>
+<<system-name/adr-doc-systemname.adoc#, ADR Document  System Name>>
 
 <<system-name/release-note-systemname.adoc#, Release Note System Name>>
 

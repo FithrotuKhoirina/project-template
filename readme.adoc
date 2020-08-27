@@ -1,37 +1,63 @@
-== Project Title
+= System Name (System Name)
 
-One Paragraph of project description goes here
+== Overview
 
-== Prerequisites and Installation
+Berisi deskripsi, etimologi penamaan, dan fungsi sistem yang dijabarkan
+secara singkat. Sekaligus memuat informasi tentang tujuan pengembangan
+sistem.
 
-What requirements you need to install the system/software and how to
-install them
+== Team Involved
 
-____
-List of Requirements
-____
-
-You can read more about installation step on Developer Onboarding (link
-to dev onboarding) section on System Documentation
-
-== Documentation
+Berikut adalah nama-nama yang terlibat dalam pengembangan sistem
+______________. Masing-masing sudah dilengkapi dengan alamat email yang
+bisa dihubungi jika diperlukan.
 
 
 |===
-|*Document Title* |*About The Document*
-
-|<<docs/system-name.adoc#, System Documentation>> |This
-document would help you to understand more about system, including its
-architecture and environment, how to develop the system, how to deploy,
-and more
-
-|<<Documentation/api-documentation/index.adoc#, Api Documentation>> |This technical document contains instructions
-about how to effectively use and integrate with System’s API
-
-|link:[User Guide] |The main purpose of this document is to give
-assistance to end user in using this system
+| Name | Role | Email 
+| | |
 |===
 
-== Author
+== Technical Information
 
-The writer of this document
+Berisi informasi teknis tentang sistem, adapun informasi yang
+dicantumkan harus menyesuaikan dengan kebutuhan.
+
+<<docs-civet/url-systemname.adoc#, System URL System Name>>
+
+<<docs-civet/architecture-systemname.adoc#, Architecture System Name>>
+
+<<docs-civet/technology-systemname.adoc#, Technology System Name>>
+
+<<docs-civet/environment-systemname.adoc#, Environment System Name>>
+
+<<docs-civet/database-systemname.adoc#, Database Documentation System Name>>
+
+<<docs-civet/release-deploy-systemname.adoc#, Release and Deployment System Name>>
+
+<<docs-civet/flow-wire-systemname.adoc#, Flow and Wireframe System Name>>
+
+== Onboarding Information
+
+<<docs-civet/dev-onboarding-systemname.adoc#, Developer Onboarding Sytem Name>>
+
+<<docs-civet/development-systemname.adoc#, Development System name>>
+
+<<docs-civet/naming-convention-systemname.adoc#, Naming Convention System Name>>
+
+=== Dokumentasi
+Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
+
+User Manual (jika ada, external link)
+
+Dokumen Integrasi (jika ada, external link)
+
+Dokumen Maintenance (jika ada, external link)
+
+Dokumen API (jika ada, external link)
+
+<<docs-civet/adr-doc-systemname.adoc#, ADR Document  System Name>>
+
+<<docs-civet/release-note-systemname.adoc#, Release Note System Name>>
+
+<<docs-civet/release-note-systemname.adoc#, Product Information System Name>>
