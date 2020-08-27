@@ -60,4 +60,4 @@ Dokumen API (jika ada, external link)
 
 <<docs-systemname/release-note-systemname.adoc#, Release Note System Name>>
 
-<<docs-systemname/release-note-systemname.adoc#, Product Information System Name>>
+<<docs-systemname/product-information-systemname.adoc#, Product Information System Name>>
