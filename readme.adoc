@@ -23,27 +23,27 @@ bisa dihubungi jika diperlukan.
 Berisi informasi teknis tentang sistem, adapun informasi yang
 dicantumkan harus menyesuaikan dengan kebutuhan.
 
-<<docs-civet/url-systemname.adoc#, System URL System Name>>
+<<docs-systemname/url-systemname.adoc#, System URL System Name>>
 
-<<docs-civet/architecture-systemname.adoc#, Architecture System Name>>
+<<docs-systemname/architecture-systemname.adoc#, Architecture System Name>>
 
-<<docs-civet/technology-systemname.adoc#, Technology System Name>>
+<<docs-systemname/technology-systemname.adoc#, Technology System Name>>
 
-<<docs-civet/environment-systemname.adoc#, Environment System Name>>
+<<docs-systemname/environment-systemname.adoc#, Environment System Name>>
 
-<<docs-civet/database-systemname.adoc#, Database Documentation System Name>>
+<<docs-systemname/database-systemname.adoc#, Database Documentation System Name>>
 
-<<docs-civet/release-deploy-systemname.adoc#, Release and Deployment System Name>>
+<<docs-systemname/release-deploy-systemname.adoc#, Release and Deployment System Name>>
 
-<<docs-civet/flow-wire-systemname.adoc#, Flow and Wireframe System Name>>
+<<docs-systemname/flow-wire-systemname.adoc#, Flow and Wireframe System Name>>
 
 == Onboarding Information
 
-<<docs-civet/dev-onboarding-systemname.adoc#, Developer Onboarding Sytem Name>>
+<<docs-systemname/dev-onboarding-systemname.adoc#, Developer Onboarding Sytem Name>>
 
-<<docs-civet/development-systemname.adoc#, Development System name>>
+<<docs-systemname/development-systemname.adoc#, Development System name>>
 
-<<docs-civet/naming-convention-systemname.adoc#, Naming Convention System Name>>
+<<docs-systemname/naming-convention-systemname.adoc#, Naming Convention System Name>>
 
 === Dokumentasi
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
@@ -56,8 +56,8 @@ Dokumen Maintenance (jika ada, external link)
 
 Dokumen API (jika ada, external link)
 
-<<docs-civet/adr-doc-systemname.adoc#, ADR Document  System Name>>
+<<docs-systemname/adr-doc-systemname.adoc#, ADR Document  System Name>>
 
-<<docs-civet/release-note-systemname.adoc#, Release Note System Name>>
+<<docs-systemname/release-note-systemname.adoc#, Release Note System Name>>
 
-<<docs-civet/release-note-systemname.adoc#, Product Information System Name>>
+<<docs-systemname/release-note-systemname.adoc#, Product Information System Name>>
