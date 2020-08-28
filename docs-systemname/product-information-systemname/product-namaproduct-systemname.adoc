@@ -1,1 +1,29 @@
-= Product Pake Data (System Name)
+= Product Information Nama Product (System Name)
+
+== Overview Product
+
+|===
+|Product Type| (tipe produk yang dibuat)
+|End Point|(status endpoint dari produk)|
+|===
+
+Menjelaskan jenis produk dan tujuan dibuatnya dokumen ini. 
+
+=== Product Variant 
+
+Menjelaskan variasi pendukung produk (jika ada)
+
+== Terms and Condition
+Menjelaskan Syarat dan ketentuan apa saja yang ditetapkan dan harus dipenuhi untuk memproses / melakukan akses terhadap produk
+
+=== Privacy / Access
+Menjelaskan secara rinci siapa saja Actor  yang akan menggunakan produk
+
+=== Tools / Software
+Menjelaskan tools / software yang digunakan untuk menyusun produk serta menjelaskan versi dari produk ini.
+
+=== Term of Use
+Menjelaskan terkait peraturan yang tidak boleh dilakukan oleh actor
+
+
+== Features Expected Behaviour
