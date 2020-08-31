@@ -1,9 +1,9 @@
 = Product Information (System Name)
 
-Dokumen berikut berisi  penjelasan terkait semua product yang ada di dalam system (System Name). Berikut untuk list dari product information : 
+Dokumen berikut berisi penjelasan terkait semua product yang ada di dalam sistem (System Name). Berikut untuk list dari product information :
 
 
 |===
 |*Document Title* |*Remark/Explanation*
-| <<product-information-systemname/product-namaproduct-systemname.adoc#, Product Nama Produk System Name  >> |
+| <<product-information-systemname/product-name-systemname.adoc#, Product Nama Produk System Name  >> |
 |===

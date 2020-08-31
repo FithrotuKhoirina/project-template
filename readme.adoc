@@ -45,7 +45,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 
 <<docs-systemname/naming-convention-systemname.adoc#, Naming Convention System Name>>
 
-=== Dokumentasi
+== Documentation
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
 
 User Manual (jika ada, external link)
@@ -58,6 +58,8 @@ Dokumen API (jika ada, external link)
 
 <<docs-systemname/adr-doc-systemname.adoc#, ADR Document  System Name>>
 
+<<docs-systemname/product-information-systemname.adoc#, Product Information System Name>>
+
 <<docs-systemname/release-note-systemname.adoc#, Release Note System Name>>
 
-<<docs-systemname/product-information-systemname.adoc#, Product Information System Name>>
+
