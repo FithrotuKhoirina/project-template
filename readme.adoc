@@ -48,7 +48,7 @@ dicantumkan harus menyesuaikan dengan kebutuhan.
 == Documentation
 Berisi dokumen penunjang untuk penggunaan sistem, berikut adalah dokumen yang biasa dimasukkan di dalamnya. Anda dapat memasukkan external link (Google Doc, Horven, Swagger, maupun lainnya dalam list dokumen berikut:
 
-User Manual (jika ada, external link)
+User Guide (jika ada, external link)
 
 Dokumen Integrasi (jika ada, external link)
 
