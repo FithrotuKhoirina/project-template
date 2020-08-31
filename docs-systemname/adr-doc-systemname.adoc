@@ -1,7 +1,7 @@
 = Document ADR (System Name)
 
 
-The documents below are the history of all decisions applied by the development team based on the exploration
+The documents below are the history of all decisions applied by the development team based on the exploration:
 
 
 |===
