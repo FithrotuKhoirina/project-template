@@ -5,5 +5,5 @@ Dokumen berikut berisi  penjelasan terkait semua product yang ada di dalam syste
 
 |===
 |*Document Title* |*Remark/Explanation*
-| <<product-information-systemname/product-paket-data-systemname.adoc#, Product Paket Data System Name  >> |
+| <<product-information-systemname/product-namaproduct-systemname.adoc#, Product Nama Produk System Name  >> |
 |===
