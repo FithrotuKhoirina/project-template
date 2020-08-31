@@ -1,4 +1,4 @@
-= Product Information Nama Product (System Name)
+= Nama Product (System Name)
 
 == Overview Product
 
